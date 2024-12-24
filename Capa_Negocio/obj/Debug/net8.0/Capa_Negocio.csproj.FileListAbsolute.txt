@@ -1,0 +1,87 @@
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.deps.json
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.dll
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.pdb
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.dll
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.dll
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.pdb
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.pdb
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.AssemblyReference.cache
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfoInputs.cache
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfo.cs
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Neg.64FC8661.Up2Date
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.dll
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\refint\Capa_Negocio.dll
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.pdb
+D:\Proyecto Talambo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\ref\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.deps.json
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfoInputs.cache
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfo.cs
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Neg.64FC8661.Up2Date
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\refint\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\ref\Capa_Negocio.dll
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.deps.json
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.dll
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.pdb
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.dll
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.dll
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.pdb
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.pdb
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.AssemblyReference.cache
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfoInputs.cache
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfo.cs
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Neg.64FC8661.Up2Date
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.dll
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\refint\Capa_Negocio.dll
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.pdb
+D:\Proyecto Talambo\Nuevo\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\ref\Capa_Negocio.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.deps.json
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.pdb
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.pdb
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.pdb
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfoInputs.cache
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfo.cs
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Neg.64FC8661.Up2Date
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\refint\Capa_Negocio.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.pdb
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\ref\Capa_Negocio.dll
+C:\Users\Jampier\Downloads\AGUA POTABLE-TALAMBO\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.sourcelink.json
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.deps.json
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Negocio.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Datos.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\bin\Debug\net8.0\Capa_Entidad.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfoInputs.cache
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.AssemblyInfo.cs
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.sourcelink.json
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Neg.64FC8661.Up2Date
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\refint\Capa_Negocio.dll
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\Capa_Negocio.pdb
+C:\Users\MOISES\Documents\CICLO X\Practicas Pre Profesionales\AGUA POTABLE-TALAMBO\ACTUAL\Agua_Potable\Capa_Negocio\obj\Debug\net8.0\ref\Capa_Negocio.dll
